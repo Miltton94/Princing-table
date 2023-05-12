@@ -40,7 +40,7 @@ const Card = ({
 
       <div
         className={classNames(
-          "flex items-center gap-2 justify-between mt-2  text-gray-800",
+          "flex items-center gap-2 justify-between mt-2 text-gray-800 xs:flexcol",
           {
             "text-white": isPremium,
           }
