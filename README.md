@@ -37,7 +37,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## Vercel
 
-Você pode visualizar o layout do projeto na vercel através [DESSE LINK](princing-table-three.vercel.app).
+Você pode visualizar o layout do projeto na vercel através [DESSE LINK](https://princing-table-three.vercel.app/).
 
 ---
 
