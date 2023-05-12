@@ -35,9 +35,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1215291914714743267). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## Vercel
+## 🔖 Vercel
 
-Você pode visualizar o layout do projeto na vercel através [DESSE LINK](https://princing-table-three.vercel.app/).
+Você pode visualizar o projeto na vercel através [DESSE LINK](https://princing-table-three.vercel.app/).
 
 ---
 
